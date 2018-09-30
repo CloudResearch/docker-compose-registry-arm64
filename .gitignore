@@ -1,0 +1,3 @@
+data/auth/htpasswd
+data/certs/*.pem
+docker-registry-arm64
